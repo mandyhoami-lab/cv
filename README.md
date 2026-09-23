@@ -1,6 +1,6 @@
 # Amanda Ta — CV
 
-My academic CV: psychology research, EEG methods, and quantitative analysis.
+Welcome to my CV: psychology research,EEG methodology, and quantitative analysis.
 
 📄 [View / Download CV (PDF)](amanda-ta-cv.pdf)
 
@@ -11,7 +11,7 @@ My academic CV: psychology research, EEG methods, and quantitative analysis.
 - Undergraduate Researcher, Center for Tobacco and the Environment — tobacco/vaping housing policy
 - Honors: Dean's Award for Top Poster Presentation, SDSU College of Sciences (2026)
 
-## Links
+## Mandy's links
 
 - Website: <https://amandata.org>
 - LinkedIn: <https://www.linkedin.com/in/amandahoamita>
