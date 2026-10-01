@@ -13,7 +13,7 @@ Welcome to my CV: psychology research,EEG methodology, and quantitative analysis
 
 ## Mandy's links
 
-- Website: <https://amandata.org>
+- Website(s): <https://amandata.org> , <https://amandata.dev>
 - LinkedIn: <https://www.linkedin.com/in/amandahoamita>
 - GitHub: <https://github.com/mandyhoami-lab>
 
